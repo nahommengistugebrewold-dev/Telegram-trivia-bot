@@ -1,2 +1,6 @@
+pip>=25.2
+setuptools>=68.0
+wheel
 aiogram==2.25.1
 asyncpg
+aiohttp==3.8.5
